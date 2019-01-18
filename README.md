@@ -5,9 +5,9 @@ Used tool - Gatling.
 
 Scenario:
 
-Navigate to Home page 
-Navigate to a post
-Navigate to About page 
-Navigate to Automaton project page 
+Navigate to Home page <br>
+Navigate to a post <br>
+Navigate to About page <br>
+Navigate to Automaton project page <br> 
 
 User pool is 1.
