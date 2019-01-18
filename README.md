@@ -11,3 +11,6 @@ Navigate to About page <br>
 Navigate to Automaton project page <br> 
 
 User pool is 1.
+
+Simulation:
+![alt text](https://github.com/BurhanH/automaton-v10/raw/master/simulation_terminal.png "Simulation") <br>
