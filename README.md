@@ -19,3 +19,7 @@ Simulation:
 Simultation results for 100 users:
 
 ![alt text](https://github.com/BurhanH/automaton-v10/raw/master/simulation_results_1.png "Simulation results") <br>
+
+![alt text](https://github.com/BurhanH/automaton-v10/raw/master/simulation_results_2.png "Simulation results") <br>
+
+![alt text](https://github.com/BurhanH/automaton-v10/raw/master/simulation_results_3.png "Simulation results") <br>
