@@ -1,4 +1,7 @@
 # automaton-v10
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/14920936c2f949a8939d16aeb2962c54)](https://app.codacy.com/app/BurhanH/automaton-v10?utm_source=github.com&utm_medium=referral&utm_content=BurhanH/automaton-v10&utm_campaign=Badge_Grade_Settings)
+
 Performance script - an example. Based on Gatling, Scala
 
 Used tool - Gatling.
