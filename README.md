@@ -1,4 +1,4 @@
-# automaton-v10
+# Automaton-v10
 Performance script - an example. Based on Gatling, Scala
 
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/BurhanH/automaton-v10/blob/master/LICENSE)
