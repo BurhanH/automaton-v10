@@ -3,6 +3,8 @@ Performance script - an example. Based on Gatling tool, Scala programming langua
 
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/BurhanH/automaton-v10/blob/master/LICENSE)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/14920936c2f949a8939d16aeb2962c54)](https://app.codacy.com/app/BurhanH/automaton-v10?utm_source=github.com&utm_medium=referral&utm_content=BurhanH/automaton-v10&utm_campaign=Badge_Grade_Settings)
+[![HitCount](http://hits.dwyl.com/BurhanH/automaton-v10.svg)](http://hits.dwyl.com/BurhanH/automaton-v10)
+
 
 Scenario:
 
