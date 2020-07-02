@@ -17,15 +17,15 @@ User pool is 1.
 
 Simulation:
 
-![alt text](https://github.com/BurhanH/automaton-v10/raw/master/simulation_terminal.png "Simulation") <br>
+![alt text](simulation_terminal.png "Simulation") <br>
 
 Simultation results for 100 users:
 
-![alt text](https://github.com/BurhanH/automaton-v10/raw/master/simulation_results_1.png "Simulation results") <br>
+![alt text](simulation_results_1.png "Simulation results") <br>
 
-![alt text](https://github.com/BurhanH/automaton-v10/raw/master/simulation_results_2.png "Simulation results") <br>
+![alt text](simulation_results_2.png "Simulation results") <br>
 
-![alt text](https://github.com/BurhanH/automaton-v10/raw/master/simulation_results_3.png "Simulation results") <br>
+![alt text](simulation_results_3.png "Simulation results") <br>
 
 ## Techology stack and helpful info
 [Gatling](https://gatling.io/) <br>
