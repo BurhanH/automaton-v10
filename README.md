@@ -27,6 +27,6 @@ Simultation results for 100 users:
 
 ![alt text](simulation_results_3.png "Simulation results") <br>
 
-## Techology stack and helpful info
+## Technology stack and helpful info
 [Gatling](https://gatling.io/) <br>
 [Scala](https://www.scala-lang.org/) <br>
